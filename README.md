@@ -24,3 +24,5 @@ Questions:
 1.	Develop a UML Class diagram that represents the interfaces, classes, methods and associations between Classes.
 2.	Develop a UML Sequence diagram that represents the method calls between objects.
 3.	Implement the UML design into a C# program and write a client class to test the implemented code.
+
+
