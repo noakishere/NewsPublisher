@@ -4,6 +4,7 @@
 In this exercise we will design and implement interaction between different entities.
 We are assuming we have two main entities and implementing their fields and methods that support their interaction. 
 Suppose we have a NewsPublisher that produces news data through a publish action; and we have one or many NewsReader that subscribe to the NewsPublisher, and need to be notified whenever a news article is published. A NewsReader is notified of a new article through the action readNews. Check the image below.
+
 a.	A NewsPublisher must be able to Register a NewsReader (that wants to get notified).
 b.	A NewsPublisher must be able to UnRegister a NewsReader (that does Not want to get notified).
 c.	A NewsPublisher is updated through a method that it must implement called setNewsArticle that takes a news article as a parameter. The news article data is just a string of the following format: [news article number - news article text] for example: “123 - this is a news article text”.
