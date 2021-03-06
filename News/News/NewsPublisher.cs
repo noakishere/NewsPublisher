@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace News
 {
-    class NewsPublisher
+    class NewsPublisher : IPublishNews
     {
         public Dictionary<int, NewsReader> newsSubscribers;
         public Dictionary<int, NewsArticle> newsArticles;

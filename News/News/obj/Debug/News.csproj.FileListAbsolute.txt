@@ -5,3 +5,10 @@ C:\Users\Kamyar\Desktop\Semester5\Program Modifications\Assignments\Assignmnet02
 C:\Users\Kamyar\Desktop\Semester5\Program Modifications\Assignments\Assignmnet02\News\News\obj\Debug\News.csproj.CoreCompileInputs.cache
 C:\Users\Kamyar\Desktop\Semester5\Program Modifications\Assignments\Assignmnet02\News\News\obj\Debug\News.exe
 C:\Users\Kamyar\Desktop\Semester5\Program Modifications\Assignments\Assignmnet02\News\News\obj\Debug\News.pdb
+C:\Users\Kamyar\Desktop\Semester5\Program Modifications\Assignments\Assignmnet02\NewsPublisher\News\News\bin\Debug\News.exe.config
+C:\Users\Kamyar\Desktop\Semester5\Program Modifications\Assignments\Assignmnet02\NewsPublisher\News\News\bin\Debug\News.exe
+C:\Users\Kamyar\Desktop\Semester5\Program Modifications\Assignments\Assignmnet02\NewsPublisher\News\News\bin\Debug\News.pdb
+C:\Users\Kamyar\Desktop\Semester5\Program Modifications\Assignments\Assignmnet02\NewsPublisher\News\News\obj\Debug\News.csprojAssemblyReference.cache
+C:\Users\Kamyar\Desktop\Semester5\Program Modifications\Assignments\Assignmnet02\NewsPublisher\News\News\obj\Debug\News.csproj.CoreCompileInputs.cache
+C:\Users\Kamyar\Desktop\Semester5\Program Modifications\Assignments\Assignmnet02\NewsPublisher\News\News\obj\Debug\News.exe
+C:\Users\Kamyar\Desktop\Semester5\Program Modifications\Assignments\Assignmnet02\NewsPublisher\News\News\obj\Debug\News.pdb

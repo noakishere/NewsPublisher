@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace News
 {
-    class NewsReader
+    class NewsReader : IReadNews
     {
         public string name;
         public int id;
