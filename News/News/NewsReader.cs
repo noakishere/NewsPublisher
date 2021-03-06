@@ -21,14 +21,16 @@ namespace News
             notifications = new Queue<string>();
         }
 
-        public void SubscribeToNews()
+        public void SubscribeToNews(NewsPublisher np)
         {
-            Console.WriteLine("Subscribed!");
+            np.RegisterSub(this);
+            Console.WriteLine("You have successfully Subscribed!");
         }
 
-        public void UnSubscribe()
+        public void UnSubscribe(NewsPublisher np)
         {
-            Console.WriteLine("Unsubscribed!");
+            np.UnRegisterSub(this);
+            Console.WriteLine("You have successfully Unsubscribed!");
         }
 
         public void ReadNews(NewsPublisher np)

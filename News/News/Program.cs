@@ -36,6 +36,10 @@ namespace News
 
             currentNewsReader.ShowNotifications();
             currentNewsReader.ReadNews(newsPublisher);
+
+            Console.WriteLine("----------");
+
+            nr.UnSubscribe(newsPublisher);
             Console.ReadLine();
         }
     }

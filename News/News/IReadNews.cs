@@ -8,8 +8,8 @@ namespace News
 {
     interface IReadNews
     {
-        void SubscribeToNews();
-        void UnSubscribe();
+        void SubscribeToNews(NewsPublisher np);
+        void UnSubscribe(NewsPublisher np);
         void ReadNews(NewsPublisher np);
         void ReceiveNotification(string message);
     }
